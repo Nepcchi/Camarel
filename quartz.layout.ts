@@ -6,18 +6,7 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        repo: "Nepccho/Camarel",
-        repoId: "R_kgDOKS61Gw",
-        category: "Announcements",
-        categoryId: "DIC_kwDOKS61G84CkjQD",
-        reactionsEnabled: false,
-      },
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Nepcchi/Camarel",
