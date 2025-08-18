@@ -1,3 +1,219 @@
 @use "./base.scss";
 
+@font-face {
+  font-family: "Schibsted Grotesk"
+}
+
 // put your custom CSS here!
+
+:root {
+  --bodyFont: "Schibsted Grotesk" !important;
+}
+
+html {
+  --sakura: #cc2364;
+  --pink: #f19bbc;
+  --green: #3eb4bf;
+  --yellow: #e5b567;
+  --orange: #e87d3e;
+  --blue: #496d9e;
+  --purple: #b986c8;
+
+  --bright-yellow: #f5d69c;
+  --warm-white: #fffbf5;
+
+  --quote-color: var(--green);
+
+  // scrollbar-width: thin;
+  // scrollbar-color: #aaa #5c5c5c;
+  // scrollbar-gutter: both-edges;
+
+  body::-webkit-scrollbar,
+  ul.overflow::-webkit-scrollbar {
+    width: 10px;
+    background-color: #aaa;
+  }
+
+  body::-webkit-scrollbar-thumb,
+  ul.overflow::-webkit-scrollbar-thumb {
+    background-color: #5c5c5c;
+  }
+
+  img {
+    pointer-events: none !important;
+  }
+
+  p {
+    hyphens: none !important;
+    -webkit-hyphens: none !important;
+  }
+
+  .page > #quartz-body {
+    & .page-header {
+      margin-top: 3rem !important;
+    }
+    & .sidebar {
+      & div:has(> .overflow) {
+        flex-direction: column !important;
+      }
+      &.left {
+        left: calc(50vw - 765px);
+      }
+      &.right {
+        right: calc(50vw - 765px);
+        & .toc.desktop-only #toc-content ul.overflow {
+          max-height: 286px !important;
+        }
+      }
+    }
+
+    & .center {
+      & .page-listing ul.section-ul {
+        grid-template-columns: 7em 3fr 1fr !important;
+      }
+
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  div.center h2 {
+    border-bottom: 2px solid #404040 !important;
+  }
+
+  &[saved-theme="light"] {
+    div.search > #search-button {
+      & > p {
+        color: #414141 !important;
+      }
+    }
+
+    progress {
+      background-color: #d8d8c3 !important;
+      border: none !important;
+
+      &::-moz-progress-bar {
+        background-color: #39b684 !important;
+      }
+      &::-webkit-progress-bar {
+        background-color: #d8d8c3 !important;
+      }
+      &::-webkit-progress-value {
+        background-color: #39b684 !important;
+      }
+    }
+
+    em,
+    strong :not(table th > strong) {
+      color: var(--blue) !important;
+    }
+  }
+
+  &[saved-theme="dark"] {
+    .article-title {
+      color: #e9d0a8 !important;
+    }
+
+    .page-title {
+      & > a {
+        color: #e9d0a8 !important;
+        &:hover {
+          color: var(--warm-white) !important;
+        }
+      }
+    }
+
+    .center {
+      h3 {
+        color: var(--pink) !important;
+      }
+      h4 {
+        color: var(--yellow) !important;
+      }
+    }
+
+    em,
+    strong {
+      color: var(--purple) !important;
+    }
+
+    blockquote {
+      &:not(.callout) {
+        border-left: 3px solid var(--sakura) !important;
+      }
+
+      & > p {
+        font-style: italic;
+        color: var(--quote-color) !important;
+
+        em {
+          color: var(--pink) !important;
+        }
+
+        a {
+          font-style: normal;
+        }
+      }
+    }
+
+    progress {
+      background-color: #4b4d55 !important;
+      border: none !important;
+
+      &::-moz-progress-bar {
+        background-color: var(--yellow) !important;
+      }
+      &::-webkit-progress-bar {
+        background-color: #4b4d55 !important;
+      }
+      &::-webkit-progress-value {
+        background-color: var(--yellow) !important;
+      }
+    }
+
+    .search > #search-container > #search-space > input {
+      color: var(--warm-white) !important;
+    }
+
+    table th > strong {
+      color: var(--pink) !important;
+    }
+
+    .explorer-content {
+      & ul {
+        & > li > a {
+          color: var(--bright-yellow) !important;
+          opacity: 1 !important;
+
+          &.active {
+            color: #ffe7f1 !important;
+          }
+          &:hover {
+            color: var(--warm-white) !important;
+          }
+        }
+      }
+    }
+
+    ul.toc-content {
+      & > li > a {
+        color: var(--bright-yellow) !important;
+        &:hover {
+          color: var(--warm-white) !important;
+        }
+        &.in-view {
+          opacity: 1 !important;
+        }
+      }
+    }
+
+    .backlinks {
+      & > ul > li > a {
+        color: var(--bright-yellow) !important;
+        &:hover {
+          color: var(--warm-white) !important;
+        }
+      }
+    }
+  }
+}

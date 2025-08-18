@@ -1,15 +1,26 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "Nepccho/Camarel",
+        repoId: "R_kgDOKS61Gw",
+        category: "Announcements",
+        categoryId: "DIC_kwDOKS61G84CkjQD",
+        reactionsEnabled: false,
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Nepcchi/Camarel",
     },
   }),
 }
@@ -28,17 +39,22 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(
+      Component.Explorer({
+        folderClickBehavior: "collapse",
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Records",
+        limit: 3,
+        filter: (f) =>
+          f.slug!.startsWith("Records/") && f.slug! !== "Records/index" && !f.frontmatter?.noindex,
+        linkToMore: "Records/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
