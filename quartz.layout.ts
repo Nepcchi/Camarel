@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "SheathedBlade/The-World-of-Luciradis",
+        repo: "Nepccho/Camarel",
         repoId: "R_kgDOKS61Gw",
         category: "Announcements",
         categoryId: "DIC_kwDOKS61G84CkjQD",
@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/SheathedBlade/The-World-of-Luciradis",
+      GitHub: "https://github.com/Nepcchi/Camarel",
     },
   }),
 }
