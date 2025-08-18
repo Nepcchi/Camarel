@@ -13,7 +13,6 @@
 - Cup Size: 22G (UK) / 22I (US) / 45I (EU) %%Yi Xuan from ZZZ used as reference%%
 - Occupation: Adventurer
 - Deity: [[The Moonweaver]]
-- Class: Warlock (Hexblade)
 - Relationships:
 
 ## Background
@@ -49,21 +48,32 @@ Camarel woke up three days later in guild's infirmary and after handing in her r
 >*Eye witnesses and other guild members reported the perpetrator escaping to the material realm through the portal.
 
 She attended her partner's funeral and went through the portal, journeying back to the material plane with a quest - find a person responsible for her partner's death and get back in contact with the mysterious being that saved her life.
-## Appearance (WIP)
+## Appearance
 
 
 
-## Personality (WIP)
+## Personality
 
 ### Likes
 
+- Trendy fashion
+  - Big part of her clothing and adventuring gear is designed by her and commission to their respected artisans.
+- Gemstones
+  - Her love for gemstones comes from reading books about them and the fey creatures bringing her gems for appraisal once she picked up the craft.
+- Adventure
+  - She embraces it and enjoys it. Exploring the unknown is what made her a person that she is today.
+
 ### Dislikes
+
+- Ruthless individuals
+  - While she understands how battles often end, she will try and spare an intelligent creature that has admitted defeat/given up.
   
 ## Expertise
 
 ### Physical Combat
 
+Camarel's preferred weapons in combat are swords. She uses a longsword as her main weapon of choice as well as a dagger that she keeps on her for emergencies. Even though she's trained in their use, Camarel avoids using weapons such as Greataxes and Halberds due to their heft and size - though she does make an exception with Greatswords and Spears; former due to her preference for swords and latter for it's reach.
 
+### Magical Combat
 
-### Magical Abilities
-
+She posses innate spellcasting due to Feywild's influence on her body but majority of spells she knows are a result of her trained her warlock powers, raising them to a new level. Ever since she gained more magical abilities, she substituted her bow and arrows in favor of magical attacks such a Eldritch Blast - primarily so she wouldn't have to carry more equipment with her. Camarel also uses her magical abilities to compliment her melee combat; using misty step to quickly move while in combat, making surprise attacks and dodging dangerous attacks.
