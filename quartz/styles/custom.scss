@@ -111,12 +111,12 @@ html {
 
   &[saved-theme="dark"] {
     .article-title {
-      color: #e9d0a8 !important;
+      color: #ebebec !important;
     }
 
     .page-title {
       & > a {
-        color: #e9d0a8 !important;
+        color: #ebebec !important;
         &:hover {
           color: var(--warm-white) !important;
         }
