@@ -35,15 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
         folderClickBehavior: "collapse",
       }),
     ),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Records",
-        limit: 3,
-        filter: (f) =>
-          f.slug!.startsWith("Records/") && f.slug! !== "Records/index" && !f.frontmatter?.noindex,
-        linkToMore: "Records/" as SimpleSlug,
-      }),
-    ),
   ],
   right: [
     Component.Graph(),
