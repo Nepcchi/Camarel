@@ -14,7 +14,6 @@
 - Occupation: Adventurer
 - Deity: [[The Moonweaver]]
 - Relationships:
-
 ## Background
 
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the city of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. She spent most of her time at home and visits to the family shop were rare and brief. During one of the visits, she took a green pendulum necklace that was stashed away in the back of the storage in the hope that it’s magical effect could provide some entertainment.
@@ -42,7 +41,6 @@ A deva introduced themselves as an agent of [[The Moonweaver]], offering her a d
 Camarel woke up three days later in guild's infirmary and after handing in her report she was handed back her equipment and a new sword that was found next to her at the time of the accident.
 
 >*// Guild Report //*
->
 >*During the one man raid on the city, dozens of magical items were stolen, one of them being a magical artifact that holds tremendous amounts of magical energy.*
 >
 >*Eye witnesses and other guild members reported the perpetrator escaping to the material realm through the portal.
@@ -67,7 +65,6 @@ She attended her partner's funeral and went through the portal, journeying back 
 
 - Ruthless individuals
   - While she understands how battles often end, she will try and spare an intelligent creature that has admitted defeat/given up.
-  
 ## Expertise
 
 ### Physical Combat
