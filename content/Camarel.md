@@ -18,7 +18,7 @@
 
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the city of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. She spent most of her time at home and visits to the family shop were rare and brief. During one of the visits, she took a green pendulum necklace that was stashed away in the back of the storage in the hope that it’s magical effect could provide some entertainment.
 
-> _// Item Description card //_  
+> _// Item Description Card //_  
 > *This green pendulum necklace is imbued with power of the Feywild.*
 > 
 > *This item stabilizes the otherwise chaotic nature of the feywild to more closely obey the laws of space and time of the material plane.*
