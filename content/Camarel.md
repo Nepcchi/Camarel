@@ -19,9 +19,9 @@
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the city of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. She spent most of her time at home and visits to the family shop were rare and brief. During one of the visits, she took a green pendulum necklace that was stashed away in the back of the storage in the hope that it’s magical effect could provide some entertainment.
 
 > _// Item Description Card //_  
-> *This green pendulum necklace is imbued with power of the Feywild.*
+> _"This green pendulum necklace is imbued with power of the Feywild."_
 > 
-> *This item stabilizes the otherwise chaotic nature of the feywild to more closely obey the laws of space and time of the material plane.*
+> _"This item stabilizes the otherwise chaotic nature of the feywild to more closely obey the laws of space and time of the material plane."_
 
 Camarel was expected to learn a trade and take over the shop and thus her parents took her on a business trip with an intention to start teaching her how to run the store. Arriving there, the family found an inn for a temporary stay and her parents quickly left to acquire the new magic item for their shop before the day ended.
 
@@ -41,9 +41,9 @@ A deva introduced themselves as an agent of [[The Moonweaver]], offering her a d
 Camarel woke up three days later in guild's infirmary and after handing in her report she was handed back her equipment and a new sword that was found next to her at the time of the accident.
 
 > _// Guild Report //_  
-> *During the one man raid on the city, dozens of magical items were stolen, one of them being a magical artifact that holds tremendous amounts of magical energy.*
+> _During the one man raid on the city, dozens of magical items were stolen, one of them being a magical artifact that holds tremendous amounts of magical energy._
 > 
-> *Eye witnesses and other guild members reported the perpetrator escaping to the material realm through the portal.
+> _Eye witnesses and other guild members reported the perpetrator escaping to the material realm through the portal._
 
 She attended her partner's funeral and went through the portal, journeying back to the material plane with a quest - find a person responsible for her partner's death and get back in contact with the mysterious being that saved her life.
 ## Appearance
