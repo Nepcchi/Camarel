@@ -33,7 +33,7 @@ Over the course of the next 12 years Camarel learned more about the Feywild and 
 
 During one night while being off duty, a small group of invaders came through the portal, wrecking chaos throughout Nivalis; attacking people and stealing magical items. Camarel and her girlfriend, Laira, both rushed to the scene to help, only to be defeated. In her dying moments Camarel watched her partner getting killed by an individual that was fighting both of them. Her last bit of strength was used up as she whispered out something; "I. . . want to live. . ." and as she drew her last breath a familiar voice echoed in her mind.
 
-> _// Familiar voice //_  
+> _// Familiar voice //_  
 > “Asking for a debt you'll have to repay, aren't you Camarel.”
 
 When she opened her eyes she found herself laying down, levitating in a void before a familiar fey from two years prior appeared next to her and introduced himself as [[Lord of Magical Possessions - Opus]], offering her a deal; giving her a second chance at life and giving her a piece of his power and in return Camarel would be tasked with a debt she would HAVE to repay.
