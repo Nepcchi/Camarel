@@ -14,7 +14,7 @@
 - Cup Size V2: D %%Blaze from AK used as reference%%
 - Occupation: Adventurer
 - Deity: [[The Moonweaver]]
-- Relationships:None
+- Relationships:
 ## Background
 
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the town of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. Camarel's visits to the family shop were primarily so she could help with cleaning or restocking the shelves and displays with items.
