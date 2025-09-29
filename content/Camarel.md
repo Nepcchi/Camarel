@@ -40,7 +40,7 @@ When she opened her eyes she found herself laying down, levitating in a void bef
 
 Camarel woke up three days later in guild's infirmary and after handing in her report she was handed back her equipment and a new unfamiliar sword that was found next to her at the time of the accident.
 
-> _// Guild Report //_  
+> _// Guild Report //_  
 > During the raid on Nivalis, dozens of magical items were stolen and another dozen of our own guild members were killed.
 > 
 > Eye witnesses and other guild members reported the perpetrators escaping to the material realm through the Feywild crossings.
