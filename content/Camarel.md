@@ -1,4 +1,4 @@
-## Basic Info :LiUser:
+## Basic Info
 
 - Age: 24 years
 - Gender: Female
@@ -14,7 +14,7 @@
 - Occupation: Adventurer
 - Deity: [[The Moonweaver]]
 - Relationships:
-## Background :LiFeather:
+## Background
 
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the town of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. Camarel's visits to the family shop were primarily so she could help with cleaning or restocking the shelves and displays with items.
 
@@ -43,11 +43,11 @@ Camarel woke up three days later in guild's infirmary and after handing in her r
 > During the raid on Nivalis, dozens of magical items were stolen and another dozen of our own guild members were killed. Eye witnesses and other guild members reported the perpetrators escaping to the material realm through the Feywild crossings.
 
 She attended Laira's funeral and journeyed back to the material plane with two personal quest - find a person responsible for her girlfriend's death and to repay the debt of her patron.
-## Appearance :LiSparkles:
+## Appearance
 
 
 
-## Personality :LiHeart:
+## Personality
 
 ### Likes
 
@@ -62,7 +62,7 @@ She attended Laira's funeral and journeyed back to the material plane with two p
 
 - Ruthless individuals
   - While she understands how battles often end, she will try to spare an intelligent creature that has admitted defeat/given up.
-## Additional Information :LiInfo:
+## Additional Information
 
 - She's entirely human and is just radiating Fae magic due to prolonged influence of the Feywild.
 - She tends to flirt and use her charms to get her way.
@@ -70,17 +70,17 @@ She attended Laira's funeral and journeyed back to the material plane with two p
 - If she finds a deceased adventurer, she will pick up their belongings and either put the gear to good use or pass it along.
 - Dislikes smoking but doesn't mind alcohol.
 - She lacks a last name because early in her stay in the Feywild, she was tricked into giving it to a fey.
-## Expertise :LiBox:
+## Expertise
 
-### Physical Combat :LiSword:
+### Physical Combat
 
 Camarel's preferred weapons in combat are swords. She uses a longsword as her main weapon of choice as well as a dagger that she keeps on her for emergencies. Even though she's trained in their use, Camarel avoids using weapons such as Greataxes and Halberds due to their heft and size - though she does make an exception with Greatswords and Spears; former due to her preference for swords and latter for it's reach.
 
-### Magical Combat :LiWand:
+### Magical Combat
 
 She posses innate spellcasting due to Feywild's influence on her body but majority of spells she knows are a result of her trained her warlock powers, raising them to a new level. Ever since she gained more magical abilities, she substituted her bow and arrows in favor of magical attacks such a Eldritch Blast - primarily so she wouldn't have to carry more equipment with her. Camarel also uses her magical abilities to compliment her melee combat; using misty step to quickly move while in combat, making surprise attacks and dodging dangerous attacks.
 
-## Quotes :LiStickyNote:
+## Quotes
 
 "What's that? Oh, that's my childhood friend! They are also my Patron, I owe them my life. . . literally."
 
