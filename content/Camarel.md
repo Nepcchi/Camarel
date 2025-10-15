@@ -1,4 +1,4 @@
-## Basic Info
+## Basic Info :LiUser:
 
 - Age: 24 years
 - Gender: Female
@@ -8,13 +8,13 @@
 - Place of Origin: [[Arneas]]
 - Place of Residence: [[Nivalis]]
 - Allegiance: [[Wanderlust]]
-- Height: 172 cm / 5'8'' 
+- Height: 172 cm / 5'8''
 - Weight: 61 kg / 135 lbs
 - Cup Size: D %%Blaze from Arknights used as reference%%
 - Occupation: Adventurer
 - Deity: [[The Moonweaver]]
 - Relationships:
-## Background
+## Background :LiFeather:
 
 Camarel hails from a family that's been acquiring and selling magic items for generations, operating in the region with a store located in the town of [[Arneas]]. Neglected throughout her childhood, her parent’s focus was their business. Camarel's visits to the family shop were primarily so she could help with cleaning or restocking the shelves and displays with items.
 
@@ -28,14 +28,14 @@ Left to her own accord, she left the inn to explore the town, roaming around bef
 
 The girl took a step back yet her curiosity didn't let her walk away. She entered the opening and was transported to the city of [[Nivalis]] in the Feywild realm where she was greeted by the members of guild by the name of [[Wanderlust]] - their task was guarding this Fey crossroad. After being told where she is and that she can't go back yet since the portal  has shut down and only it only stays open for a brief period of time, her only course of action was to stay there for the time being. Camarel's stay lasted a week during which she befriended the group that welcomed her. Once the portal reopened, Camarel decided to stay in the Feywild since she didn't want to go back to her boring life in the material realm and thus Nivalis and the Feywilld became her new home.
 
-Over the course of the next 12 years Camarel learned more about the Feywild and its inhabitants, she was taught swordsmanship, became one of the Wanderlust guild members and learned how to use magic that she gained as the Feywild realm started permanently affecting her. Her prolonged stay in Feywild changed her physical appearance; giving her a [[Fey mark]] - a flower fragrance that has become a part of her.
+Over the course of the next 12 years Camarel learned more about the Feywild and its inhabitants, she was taught swordsmanship, became one of the Wanderlust guild members and learned how to use magic that she gained as the Feywild realm started permanently affecting her. Her prolonged stay in Feywild changed her physical appearance; giving her a [[Fey mark]] - a sweet fragrance that has become a part of her.
 
 During one night while being off duty, a small group of invaders came through the portal, wrecking chaos throughout Nivalis; attacking people and stealing magical items. Camarel and her girlfriend, Laira, both rushed to the scene to help, only to be defeated. In her dying moments Camarel watched her partner getting killed by an individual that was fighting both of them. Her last bit of strength was used up as she whispered out something; "I. . . want to live. . ." and as she drew her last breath a familiar voice echoed in her mind.
 
 > [!quote] _Familiar voice_  
 > “Asking for a debt you'll have to repay, aren't you Camarel.”
 
-When she opened her eyes she found herself laying down, levitating in a void before a familiar fey from two years prior appeared next to her and introduced himself as [[Lord of Magical Possessions - Opus]], offering her a deal; giving her a second chance at life and giving her a piece of his power and in return Camarel would be tasked with a debt she would HAVE to repay.
+When she opened her eyes she found herself laying down, levitating in a void before a familiar fey from two years prior appeared next to her and introduced himself as [[Lord of Magical Possessions - Morwyn]], offering her a deal; giving her a second chance at life and giving her a piece of his power and in return Camarel would be tasked with a debt she would HAVE to repay.
 
 Camarel woke up three days later in guild's infirmary and after handing in her report she was handed back her equipment and a new unfamiliar sword that was found next to her at the time of the accident.
 
@@ -43,11 +43,11 @@ Camarel woke up three days later in guild's infirmary and after handing in her r
 > During the raid on Nivalis, dozens of magical items were stolen and another dozen of our own guild members were killed. Eye witnesses and other guild members reported the perpetrators escaping to the material realm through the Feywild crossings.
 
 She attended Laira's funeral and journeyed back to the material plane with two personal quest - find a person responsible for her girlfriend's death and to repay the debt of her patron.
-## Appearance
+## Appearance :LiSparkles:
 
 
 
-## Personality
+## Personality :LiHeart:
 
 ### Likes
 
@@ -62,19 +62,28 @@ She attended Laira's funeral and journeyed back to the material plane with two p
 
 - Ruthless individuals
   - While she understands how battles often end, she will try to spare an intelligent creature that has admitted defeat/given up.
-## Additional Information
+## Additional Information :LiInfo:
 
 - She's entirely human and is just radiating Fae magic due to prolonged influence of the Feywild.
 - She tends to flirt and use her charms to get her way.
 - She has a big sweet tooth.
 - If she finds a deceased adventurer, she will pick up their belongings and either put the gear to good use or pass it along.
 - Dislikes smoking but doesn't mind alcohol.
-## Expertise
+- She lacks a last name because early in her stay in the Feywild, she was tricked into giving it to a fey.
+## Expertise :LiBox:
 
-### Physical Combat
+### Physical Combat :LiSword:
 
 Camarel's preferred weapons in combat are swords. She uses a longsword as her main weapon of choice as well as a dagger that she keeps on her for emergencies. Even though she's trained in their use, Camarel avoids using weapons such as Greataxes and Halberds due to their heft and size - though she does make an exception with Greatswords and Spears; former due to her preference for swords and latter for it's reach.
 
-### Magical Combat
+### Magical Combat :LiWand:
 
 She posses innate spellcasting due to Feywild's influence on her body but majority of spells she knows are a result of her trained her warlock powers, raising them to a new level. Ever since she gained more magical abilities, she substituted her bow and arrows in favor of magical attacks such a Eldritch Blast - primarily so she wouldn't have to carry more equipment with her. Camarel also uses her magical abilities to compliment her melee combat; using misty step to quickly move while in combat, making surprise attacks and dodging dangerous attacks.
+
+## Quotes :LiStickyNote:
+
+"What's that? Oh, that's my childhood friend! They are also my Patron, I owe them my life. . . literally."
+
+"What did they do so that I owe them a huge favor? They brought me back to life, I actually **OWE** them my life."
+
+"I don't know what death is like, when I died they almost immediately brought me to their realm so we could talk."
