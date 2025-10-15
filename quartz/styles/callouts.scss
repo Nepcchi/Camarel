@@ -54,8 +54,8 @@
   &[data-callout="info"],
   &[data-callout="todo"] {
     --color: #72e0d6;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+    --border: #72e0d644;
+    --bg: #72e0d610;
     --callout-icon: var(--callout-icon-info);
   }
 
@@ -116,7 +116,7 @@
   }
 
   &[data-callout="quote"] {
-    --color: var(--lightgray);
+    --color: var(--secondary);
     --border: var(--lightgray);
     --callout-icon: var(--callout-icon-quote);
   }
