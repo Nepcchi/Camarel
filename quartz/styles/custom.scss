@@ -1,7 +1,8 @@
 @use "./base.scss";
 
 @font-face {
-  font-family: "Schibsted Grotesk"
+  font-family: "Schibsted Grotesk";
+  src: local("Schibsted Grotesk"), url("Schibsted-Grotesk.ttf");
 }
 
 // put your custom CSS here!
