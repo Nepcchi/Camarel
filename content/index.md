@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Camarel Database
 ---
+This is a repository of information regarding Camarel. The goal of this repository is easily sharable information regarding her.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+If you have feedback, feel free to submit an issue on the source code repository on [GitHub](https://github.com/Nepcchi/Camarel).
