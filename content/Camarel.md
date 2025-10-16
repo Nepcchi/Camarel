@@ -20,7 +20,7 @@ Camarel hails from a family that's been acquiring and selling magic items for ge
 
 One day while her father was in the storage room and Camarel was restocking the displays; an elf came in. The two had talked for a while during which time she was serving him; for the first time Camarel did something more exciting than just cleaning the shop. As the elf was ready to pay, Camarel’s father came back to the front and scolded her for doing business by herself and not telling him that the customer came in - as he believed his daughter was not ready for this yet.
 
-Having sensed the girl’s boredom and displeasure with such mundane tasks, the elf gave Camarel a green pendulum necklace, telling her it's a gift and to keep a hold of it and left the store. Camarel put the necklace around her neck and hid it under the shirt.==
+Having sensed the girl’s boredom and displeasure with such mundane tasks, the elf gave Camarel a green pendulum necklace, telling her it's a gift and to keep a hold of it and left the store. Camarel put the necklace around her neck and hid it under the shirt.
 
 Two years later, Camarel was expected to start learning the trade so she could take over the shop one day and thus her parents took her on a business trip with intention to start teaching her how to run the shop. Arriving in the evening at a nearby town, the family found an inn for a temporary stay and her parents quickly left to acquire the new magic item for their shop before the day ended.
 
